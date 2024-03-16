@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+                "file": "Campagne/Rumeurs/2 - Quand les rivières se teintent de rouge.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+                "file": "Campagne/Rumeurs/2 - Quand les rivières se teintent de rouge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+                "file": "Campagne/Rumeurs/2 - Quand les rivières se teintent de rouge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md"
+                "file": "Campagne/Rumeurs/2 - Quand les rivières se teintent de rouge.md"
               }
             }
           }
@@ -165,6 +165,9 @@
   },
   "active": "dcc89c59217ef61e",
   "lastOpenFiles": [
+    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+    "Campagne/Rumeurs/2 - Quand les rivières se teintent de rouge.md",
+    "Campagne/Rumeurs",
     "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
     "Campagne/Factions/Zélénie.md",
     "Campagne/Événements/Calendrier.md",
@@ -174,7 +177,6 @@
     "Campagne/Lieux/Ceinture verte/Comptoir d'Oleg.md",
     "Campagne/Lieux/Ceinture verte/rob-mccaleb-kingmaker-map-3.jpg",
     "X - Aides de jeu/Cartes pour Kingmaker.md",
-    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
     "0 - Listes/Personnages.md",
     "Y - Règles/Combat de masse.md",
     "Campagne/Personnages/Personnages joueurs/Dragmar Varn.md",
@@ -200,7 +202,6 @@
     "Campagne/Intrigues/Résolues/L'arbre faucheur.md",
     "Campagne/Intrigues/Résolues/Situation délicate.md",
     "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Écailles de suie",
-    "Campagne/Personnages/Personnages non joueurs/Ceinture verte",
-    "Campagne/Personnages/Personnages non joueurs/Zélénie"
+    "Campagne/Personnages/Personnages non joueurs/Ceinture verte"
   ]
 }
