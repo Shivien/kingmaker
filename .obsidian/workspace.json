@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "4ca87c0a458b532b",
+    "type": "split",
+    "children": [
+      {
+        "id": "99dfd4be4c8a8ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a7390da8441c52",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Factions/Zélénie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dcc89c59217ef61e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "170dca463b142183",
+    "type": "split",
+    "children": [
+      {
+        "id": "069b622c99be6c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01dd12fac0438150",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06ca8c2b784740bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ace95855fbd899a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "45e82707b4c8be68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4274c00c01e46a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c592a7c296bca8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e6b3a8be76f6d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4fdd4477b8c7ee96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b91132147f0c815",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "dcc89c59217ef61e",
+  "lastOpenFiles": [
+    "Campagne/Factions/Zélénie.md",
+    "Campagne/Événements/Calendrier.md",
+    "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
+    "Campagne/Personnages/Personnages joueurs/Lizzie - 01.png",
+    "Campagne/Lieux/Zélénie/Tardigrad - Capitale de la Zélénie.md",
+    "Campagne/Lieux/Zélénie/Olengrad.md",
+    "Campagne/Lieux/Ceinture verte/Comptoir d'Oleg.md",
+    "Campagne/Lieux/Ceinture verte/rob-mccaleb-kingmaker-map-3.jpg",
+    "X - Aides de jeu/Cartes pour Kingmaker.md",
+    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+    "0 - Listes/Personnages.md",
+    "Y - Règles/Combat de masse.md",
+    "Campagne/Personnages/Personnages joueurs/Dragmar Varn.md",
+    "Campagne/Personnages",
+    "Séances/2024/2024-03-17",
+    "Séances/2024",
+    "Séances",
+    "Campagne",
+    "Campagne/Personnages/Personnages non joueurs/Dumbledalf.md",
+    "Z - Templates/Lieu.md",
+    "Z - Templates/Intrigue.md",
+    "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Écailles de suie/Écailles de suie.md",
+    "Campagne/Personnages/Personnages non joueurs/Zélénie/Akiros Ismort.md",
+    "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Davik Orties.md",
+    "Campagne/Factions/Bandits du Seigneur Cerf.md",
+    "Campagne/Personnages/Personnages joueurs/Ikki.md",
+    "0 - Listes",
+    "Campagne/Factions/Communauté féérique de la ceinture verte.md",
+    "Campagne/Intrigues/Malédiction de Valériane.md",
+    "6 - Factions/Untitled",
+    "Campagne/Intrigues/Un an de royaume.md",
+    "Campagne/Intrigues/Résolues/Expédition Narthropple en danger.md",
+    "Campagne/Intrigues/Résolues/L'arbre faucheur.md",
+    "Campagne/Intrigues/Résolues/Situation délicate.md",
+    "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Écailles de suie",
+    "Campagne/Personnages/Personnages non joueurs/Ceinture verte",
+    "Campagne/Personnages/Personnages non joueurs/Zélénie"
+  ]
+}

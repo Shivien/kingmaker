@@ -1,0 +1,653 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Ceinture_Verte_Map",
+      "locked": true,
+      "lastAccessed": 1710541917116,
+      "markers": [
+        {
+          "id": "ID_ab79299babb9",
+          "type": "Home",
+          "loc": [
+            595.9805311056992,
+            344.714555828442
+          ],
+          "link": "Comptoir d'Oleg",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea9a794b9868",
+          "type": "Campground",
+          "loc": [
+            553.200570843913,
+            431.335136523794
+          ],
+          "link": "Hutte de Bokken",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db6a29faeb1a",
+          "type": "Home",
+          "loc": [
+            249.4982083242909,
+            304.05591591021545
+          ],
+          "link": "Tardigrad - Capitale de la Zélénie",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b697b9afadb",
+          "type": "Campground",
+          "loc": [
+            336.8258958008295,
+            398.1011178080263
+          ],
+          "link": "Caverne des écailles de suie",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_980b98986bb8",
+          "type": "Home",
+          "loc": [
+            444.54919449721757,
+            224.8599564173221
+          ],
+          "link": "Olengrad",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a7959a888ca",
+          "type": "Archway",
+          "loc": [
+            303.34375,
+            357
+          ],
+          "link": "Pont des Orties",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48eb29bbda9a",
+          "type": "Paw",
+          "loc": [
+            509.84375,
+            242.5
+          ],
+          "link": "Nid des fées",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78abb87a3bdb",
+          "type": "Dollar sign",
+          "loc": [
+            415.84375,
+            343
+          ],
+          "link": "Mine d'or",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8abd80acba8",
+          "type": "Paw",
+          "loc": [
+            342.0187112251682,
+            138.5929291125633
+          ],
+          "link": "Antre des Tatzlwyrm",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b0b0bb998ab",
+          "type": "Skull",
+          "loc": [
+            302.4207314787215,
+            61.51828996322963
+          ],
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98e9fada385a",
+          "type": "Skull",
+          "loc": [
+            301.34375,
+            62
+          ],
+          "link": "Licorne morte",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b496a1a996b",
+          "type": "Campground",
+          "loc": [
+            200.5973549878587,
+            289.20667350529794
+          ],
+          "link": "Cottage de la sorcière du marais",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbcb1b0bdad9",
+          "type": "Paw",
+          "loc": [
+            288.34375,
+            387
+          ],
+          "link": "Meute de loup féroce",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a99b087a78fb",
+          "type": "Paw",
+          "loc": [
+            264.34375,
+            120.5
+          ],
+          "link": "Bosquet de Tiressia",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d90ae92b299b",
+          "type": "Campground",
+          "loc": [
+            187.84375,
+            199
+          ],
+          "link": "Ermite fou",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6af8687a7958",
+          "type": "Campground",
+          "loc": [
+            138.84375,
+            197.5
+          ],
+          "link": "Antre du roi lézard",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab5848a8eb3a",
+          "type": "Chess rook",
+          "loc": [
+            137.84375,
+            250.5
+          ],
+          "link": "Tour aux chandelles",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_086b6b2bc899",
+          "type": "Chess rook",
+          "loc": [
+            218.84375,
+            61
+          ],
+          "link": "Fort abandonné",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_693a0b895949",
+          "type": "Paw",
+          "loc": [
+            161.84375,
+            22.5
+          ],
+          "link": "Antre du hodag",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_286a7b48ab2b",
+          "type": "Leaf",
+          "loc": [
+            232.34375,
+            138
+          ],
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea3bbb690b19",
+          "type": "Leaf",
+          "loc": [
+            233.84375,
+            136
+          ],
+          "link": "Creux corrompu",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59e87b98aa5b",
+          "type": "Skull",
+          "loc": [
+            539.7655420013687,
+            66.46803743153548
+          ],
+          "link": "Cairn barbare",
+          "layer": "rob-mccaleb-kingmaker-map-3.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campagne/Lieux/Ceinture verte/Ceinture verte.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Home",
+      "iconName": "home",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Compass",
+      "iconName": "compass",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Campground",
+      "iconName": "campground",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Anchor",
+      "iconName": "anchor",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Beer",
+      "iconName": "beer",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Archway",
+      "iconName": "archway",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Paw",
+      "iconName": "paw",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dollar sign",
+      "iconName": "dollar-sign",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Chess rook",
+      "iconName": "chess-rook",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Skull",
+      "iconName": "skull",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Leaf",
+      "iconName": "leaf",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 0.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "rob-mccaleb-kingmaker-map-3.jpg",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "rob-mccaleb-kingmaker-map-3.jpg"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1.5,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Ceinture_Verte_Map",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": true,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        643.62,
+        482.71
+      ]
+    ],
+    "width": "100%",
+    "lat": 241.36,
+    "long": 321.81,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
