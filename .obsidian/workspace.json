@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Séances/2024/2024-03-17/2024-03-17 Séance.md"
+                "file": "Campagne/Lieux/Ceinture verte/Ceinture verte.md"
               }
             }
           }
@@ -177,11 +177,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "48bb0ccfa6f61a38",
+  "active": "1e374b2d1ca2a8a8",
   "lastOpenFiles": [
+    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
     "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
     "Campagne/Factions/Zélénie.md",
-    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
     "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Écailles de suie/Écailles de suie.md",
     "Y - Règles/Bestiaire/Worg.md",
     "Y - Règles/Bestiaire",
