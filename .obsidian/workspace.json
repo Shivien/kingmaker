@@ -54,19 +54,9 @@
               "icon": "lucide-file",
               "title": "2026-03-15 Séance"
             }
-          },
-          {
-            "id": "8e510c3d4f4cc378",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Leaflet Map"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e510c3d4f4cc378",
+  "active": "a5112e3260fa0ec9",
   "lastOpenFiles": [
     "Z - Templates/Lazy Dungeon Master Checklist.md",
     "Séances/2024/2024-03-17/2024-03-17 Séance.md",
