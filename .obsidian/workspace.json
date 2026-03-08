@@ -42,15 +42,31 @@
           {
             "id": "a5112e3260fa0ec9",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Séances/2026/2026-03-15/2026-03-15 Séance.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-03-15 Séance"
+            }
+          },
+          {
+            "id": "8e510c3d4f4cc378",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,16 +212,22 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5112e3260fa0ec9",
+  "active": "8e510c3d4f4cc378",
   "lastOpenFiles": [
+    "Z - Templates/Lazy Dungeon Master Checklist.md",
+    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
+    "Séances/2026/2026-03-15/2026-03-15 Séance.md",
+    "Séances/2026/2026-03-15",
+    "Séances/2026",
     "README.md",
     "Campagne/Personnages/Personnages joueurs/Valériane Densebrume.md",
     "Campagne/Personnages/Personnages joueurs/Lizzie.md",
     "Campagne/Personnages/Personnages joueurs/Ikki.md",
-    "Séances/2024/2024-03-17/2024-03-17 Séance.md",
     "Campagne/Lieux/Ceinture verte/Ceinture verte.md",
     "Campagne/Personnages/Personnages joueurs/Dragmar Varn.md",
     "Campagne/Factions/Zélénie.md",
@@ -234,10 +256,6 @@
     "Campagne/Personnages/Personnages non joueurs/Zélénie/Akiros Ismort.md",
     "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Davik Orties.md",
     "Campagne/Factions/Bandits du Seigneur Cerf.md",
-    "0 - Listes",
-    "Campagne/Factions/Communauté féérique de la ceinture verte.md",
-    "Campagne/Intrigues/Malédiction de Valériane.md",
-    "6 - Factions/Untitled",
-    "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Écailles de suie"
+    "0 - Listes"
   ]
 }
