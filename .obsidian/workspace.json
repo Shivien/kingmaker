@@ -54,9 +54,25 @@
               "icon": "lucide-file",
               "title": "2026-03-15 Séance"
             }
+          },
+          {
+            "id": "bc1b9646fd96e0d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gemini/2026-03-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-03-10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,12 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5112e3260fa0ec9",
+  "active": "bc1b9646fd96e0d1",
   "lastOpenFiles": [
+    "Séances/2026/2026-03-15/2026-03-15 Séance.md",
+    "Gemini/2026-03-10.md",
+    "Gemini",
     "X - Aides de jeu/Pervilash.webp",
     "X - Aides de jeu/Stolen Lands - Full Map.jpg",
     "README.md",
-    "Séances/2026/2026-03-15/2026-03-15 Séance.md",
     "Z - Templates/Lazy Dungeon Master Checklist.md",
     "Séances/2024/2024-03-17/2024-03-17 Séance.md",
     "Séances/2026/2026-03-15",
@@ -246,7 +264,6 @@
     "Z - Templates/Lieu.md",
     "Z - Templates/Intrigue.md",
     "Campagne/Personnages/Personnages non joueurs/Zélénie/Akiros Ismort.md",
-    "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Davik Orties.md",
-    "0 - Listes"
+    "Campagne/Personnages/Personnages non joueurs/Ceinture verte/Davik Orties.md"
   ]
 }
