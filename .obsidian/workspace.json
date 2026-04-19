@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Séances/2026/2026-04-19/Prompt.md",
+                "file": "Séances/2026/2026-04-19/Ask Gemini - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "Ask Gemini - 2"
             }
           }
         ],
@@ -253,8 +253,9 @@
   },
   "active": "620c407d1462b6cf",
   "lastOpenFiles": [
+    "Séances/2026/2026-04-19/Ask Gemini - 1.md",
+    "Séances/2026/2026-04-19/Ask Gemini - 2.md",
     "Séances/2026/2026-03-15/2026-03-15 Séance.md",
-    "Séances/2026/2026-04-19/Prompt.md",
     "Séances/2026/2026-04-19",
     "Gemini/Le passage en féérie.md",
     "Gemini/Grigori fait un discours.md",
@@ -291,7 +292,6 @@
     "Séances/2024/2024-03-17",
     "Séances/2024",
     "Séances",
-    "Campagne/Personnages/Personnages non joueurs/Dumbledalf.md",
-    "Z - Templates/Lieu.md"
+    "Campagne/Personnages/Personnages non joueurs/Dumbledalf.md"
   ]
 }

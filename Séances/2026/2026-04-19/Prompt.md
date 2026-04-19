@@ -1,4 +1,0 @@
-Mes joueurs sont allée en féérie grâce à la potion de la vieille Beldame. Ils sont passé par une ferme tenue par une famille de Conil (des lapins humanoïdes). La ferme a été endommagé récemment par quelque chose qui a ravagé une partie des récoltes. En examinant les dégâts les joueurs ont trouvé des traces de sabot et les ont suivi jusqu'à une partie sinistre de la forêt. Les joueurs n'ont pas beaucoup discuté avec les fermiers. Dans la forêt les joueurs aperçoivent la licorne d'obsidienne et une combat va s'engager.
-
-J'ai prévu un combat difficile pour les joueurs. La licorne est accompagnée de plusieurs "chapeau rouge" (redcap en anglais, des créatures féériques maléfique). Si un des personnages joueurs tombe inconscient l'effet de la potion qui l'a mené en féérie cesse et il se réveille là où il a pris la potion, la hutte de la vieille Beldame.
-
