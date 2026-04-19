@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini/Le passage en féérie.md",
+                "file": "Séances/2026/2026-04-19/Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le passage en féérie"
+              "title": "Prompt"
             }
           }
         ],
@@ -253,11 +253,13 @@
   },
   "active": "620c407d1462b6cf",
   "lastOpenFiles": [
-    "Gemini/Grigori fait un discours.md",
+    "Séances/2026/2026-03-15/2026-03-15 Séance.md",
+    "Séances/2026/2026-04-19/Prompt.md",
+    "Séances/2026/2026-04-19",
     "Gemini/Le passage en féérie.md",
+    "Gemini/Grigori fait un discours.md",
     "Campagne/Rumeurs/2 - Quand les rivières se teintent de rouge.md",
     "Séances/2024/2024-03-17/2024-03-17 Séance.md",
-    "Séances/2026/2026-03-15/2026-03-15 Séance.md",
     "Gemini/2026-03-10.md",
     "Gemini",
     "X - Aides de jeu/Pervilash.webp",
@@ -289,9 +291,7 @@
     "Séances/2024/2024-03-17",
     "Séances/2024",
     "Séances",
-    "Campagne",
     "Campagne/Personnages/Personnages non joueurs/Dumbledalf.md",
-    "Z - Templates/Lieu.md",
-    "Z - Templates/Intrigue.md"
+    "Z - Templates/Lieu.md"
   ]
 }
